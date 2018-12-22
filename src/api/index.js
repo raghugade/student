@@ -10,4 +10,5 @@ router.use('/students', students)
 router.use('/subjects', subjects)
 router.use('/marks', marks)
 
+
 export default router
